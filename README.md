@@ -1,14 +1,14 @@
 # Hello, I'm Daniel Sappington! 👋
 
-I'm a Computer Science major at the Rochester Institute of Technology. Welcome to my GitHub profile! Here you'll find a collection of projects, code snippets, and contributions that reflect my interests and skills.
+I'm a Computer Science major at the Rochester Institute of Technology. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 I'm currently studying CS at RIT.
-- 💼 I'm seeking opportunities in software engineering / development.
-- 💻 I'm proficient in Java, C, C++ and Python and always eager to learn more.
-- 🌱 I’m currently learning Databases, Kubernetes and Docker.
-- 📫 You can reach me via https://www.linkedin.com/in/daniel-sappington/.
+- 🎓 Graduating from RIT in May 2026
+- 💼 Currently seeking full time employeemenet in the software engineering field
+- 💻 I'm proficient in Python, TypeScript, Java, and more
+- 🌱 Currently learning Go, Ruby, and Kubernetes
+- 📫 You can reach me via https://www.linkedin.com/in/daniel-sappington/
 - 😄 Pronouns: He/Him.
 
 ## Projects
