@@ -26,8 +26,8 @@ Here are some projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/daniel-sappington/
-- [Email] awsumdm@gmail.com
+- https://www.linkedin.com/in/daniel-sappington/
+- awsumdm@gmail.com
 
 Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
 
