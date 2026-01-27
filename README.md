@@ -15,8 +15,9 @@ I'm a Computer Science major at the Rochester Institute of Technology. Welcome t
 
 Here are some projects I've worked on:
 
-- Block (Link to Project): Brief description
-- 
+- Elden Ring Build Customizer: Web app where Elden Ring players can create, post, and save their character builds
+  - https://github.com/dan-yee-yee/Block
+- Leyndell Market: Go microservice meant to simulate high throughput trading data  
 
 ## Skills
 
