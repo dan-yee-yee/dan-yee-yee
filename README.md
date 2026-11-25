@@ -1,34 +1,5 @@
-# Hello, I'm Daniel Sappington! 👋
+# Daniel Sappington
 
-I'm a Computer Science major at the Rochester Institute of Technology. Welcome to my GitHub profile!
+CS @ RIT. Building with LLMs, agents, and backend systems.
 
-## About Me
-
-- 🎓 Graduating from RIT in May 2026
-- 💼 Currently seeking full time employeemenet in the software engineering field
-- 💻 I'm proficient in Python, TypeScript, Java, and more
-- 🌱 Currently learning Go, Ruby, and Kubernetes
-- 📫 You can reach me via https://www.linkedin.com/in/daniel-sappington/
-- 😄 Pronouns: He/Him.
-
-## Projects
-
-Here are some projects I've worked on:
-
-- Elden Ring Build Customizer: Web app where Elden Ring players can create, post, and save their character builds
-  - https://github.com/dan-yee-yee/Block
-- Leyndell Market: Go microservice meant to simulate high throughput trading data  
-
-## Skills
-
-- Programming Languages: Java, C, C++, Python, Go, Assembly, SQL, JavaScript, HTML, CSS
-- Technologies: Angular, Django, SpringBoot, Maven, 
-- Tools: Slack, Trello, Github
-
-## Connect with Me
-
-- https://www.linkedin.com/in/daniel-sappington/
-- awsumdm@gmail.com
-
-Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
-
+[LinkedIn](https://www.linkedin.com/in/daniel-sappington/)
